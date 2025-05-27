@@ -4,7 +4,7 @@ This repository contains code and scripts for the following paper:
 
 > Editable Concept Bottleneck Models
 >
-> Lijie Hu\* , Chenyang Ren\*, Zhengyu Hu\*, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, and Di Wang.
+> Lijie Hu\*, Chenyang Ren\*, Zhengyu Hu\*, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, and Di Wang.
 >
 > ICML 2025
 
