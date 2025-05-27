@@ -1,0 +1,23 @@
+# run: conda env create -f environment.yml
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - tensorboard
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - pillow
+  - tqdm
+  - pyyaml
